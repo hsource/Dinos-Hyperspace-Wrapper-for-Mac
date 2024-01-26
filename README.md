@@ -87,7 +87,7 @@ never_run_ftl=false
 
 </details>
 
-## Troubleshooting
+## Troubleshooting:
 
 ### File/App is damaged and cannot be opened
 
